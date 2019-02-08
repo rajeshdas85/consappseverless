@@ -1,6 +1,7 @@
 'use strict';
 
 // https://school.geekwall.in/p/BkuxpgsT7/develop-a-serverless-backend-with-aws-lambda-and-node-js
+//https://coursetro.com/posts/code/165/Deploying-your-Angular-App-to-a-Serverless-Environment-
 //https://www.youtube.com/watch?v=N-6LtzJezsk
 //https://www.youtube.com/watch?v=71cd5XerKss
 //Reference Link
